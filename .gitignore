@@ -1,0 +1,14 @@
+.classpath
+.project
+.settings/
+
+target/
+
+.gitlab-ci.yml
+
+.DS_Store
+Thumbs.db
+
+*.docx
+*.iml
+
