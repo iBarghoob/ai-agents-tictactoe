@@ -1,7 +1,4 @@
 # AI Agents for Tic-Tac-Toe: MDPs and Reinforcement Learning
-Java-based AI project implementing three intelligent agents using Value Iteration, Policy Iteration, and Q-Learning to learn and play 3x3 Tic-Tac-Toe against rule-based opponents. Developed as part of academic coursework to understand Markov Decision Processes and Reinforcement Learning. 
-
-
 This project is a Java-based implementation of three AI agents designed to play Tic-Tac-Toe. The agents use **Value Iteration**, **Policy Iteration**, and **Q-Learning** to make intelligent decisions based on a Markov Decision Process (MDP) model or reinforcement learning environment. Completed as an academic project as part of a coursework based on Markov Decision Processes and Reinforcement Learning.
 
 ## Agents Implemented
